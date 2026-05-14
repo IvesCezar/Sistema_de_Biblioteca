@@ -1,1 +1,1 @@
-#Criação de sistema Streamlit, utilizando codigo em Python#
+## Criação de sistema para cadastros de livros utilizando o Streamlit e linguagem Python
